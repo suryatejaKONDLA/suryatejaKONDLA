@@ -101,7 +101,7 @@
 ## 📊 Dev Stats (auto-updating)
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryatejaKONDLA&layout=compact&hide_border=true&bg_color=0d1117&title_color=39FF14&text_color=FFFFFF" alt="top langs" />
+  <img src="https://github-readme-stats-three-psi-27.vercel.app/api/top-langs/?username=suryatejaKONDLA&layout=compact&hide_border=true&bg_color=0d1117&title_color=39FF14&text_color=FFFFFF" alt="Top Languages" />
 </p>
 
 ---
