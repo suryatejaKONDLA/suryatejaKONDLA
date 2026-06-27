@@ -127,7 +127,6 @@
 ## 📊 Dev Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-three-psi-27.vercel.app/api?username=suryatejaKONDLA&show_icons=true&hide_border=true&bg_color=0d1117&title_color=39FF14&icon_color=00FFEA&text_color=FFFFFF" alt="GitHub Stats" />
   <img height="165" src="https://github-readme-stats-three-psi-27.vercel.app/api/top-langs/?username=suryatejaKONDLA&layout=compact&hide_border=true&bg_color=0d1117&title_color=39FF14&text_color=FFFFFF" alt="Top Languages" />
 </p>
 
